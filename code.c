@@ -42,7 +42,7 @@ itemdata idata[131] = {
     { 849, "Ice Stone", 50, 1, 3 },
     { 229, "Everstone", 50, 1, 3 },
     { 110, "Oval Stone", 50, 1, 3 },
-    { 221, "King’s Rock", 50, 1, 2 },
+    { 221, "King's Rock", 50, 1, 2 },
     { 326, "Razor Claw", 50, 1, 2 },
     { 1253, "Cracked Pot", 50, 1, 2 },
     { 2403, "Unremarkable Teacup", 50, 1, 2 },
