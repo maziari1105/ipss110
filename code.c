@@ -154,7 +154,7 @@ itemdata idata[131] = {
     { 571, "Pretty Feather", 200, 5, 10 },
 };
 itemdata bdata[25] = {
-    {1, "Master Ball", 75, 1, 1 },
+    {1, "Master Ball", 76, 1, 1 },
     {5, "Safari Ball", 175, 1, 1 },
     {492, "Fast Ball", 175, 1, 1 },
     {493, "Level Ball", 175, 1, 1 },
